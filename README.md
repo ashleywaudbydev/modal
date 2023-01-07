@@ -1,4 +1,4 @@
-# 3 card layout
+# triggering a modal
  
 
 ## Table of contents
