@@ -4,20 +4,32 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+- [The challenge](#the-challenge)
+  
+- [Screenshot](#screenshot)
+  
+- [Links](#links)
+  
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+
+- [Built with](#built-with)
+  
+  
+- [What I learned](#what-i-learned)
+  
+- [Continued development](#continued-development)
+  
+- [Useful resources](#useful-resources)
+  
 - [Author](#author)
+
 - [Acknowledgments](#acknowledgments)
 
 
 
 ## Overview
+The challenge is basically just a simple modal with specific styles that opens up on a button click
 
 ### The challenge
 
@@ -47,15 +59,20 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
+
 - CSS custom properties
+
 - Flexbox
+
+
 - Mobile-first workflow
 - javascript
 
 
+
 ### What I learned
 
-learned some exra css comcepts like making a overlay on the background.
+learned some exra css comcepts like making a overlay on the background and impl;ementing in it on my work.
 
 
 ### Continued development
@@ -66,11 +83,5 @@ I will continue by making more small projewcts and also larger ones .
 ## Author
  ASHLEY WAUDBY
 
-
-
-
-
-
-
-
-Live version - https://00awaudby.github.io/modal/
+- Github - [00awaudby]https://github.com/00awaudby
+- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
