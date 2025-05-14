@@ -52,7 +52,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [https://00awaudby.github.io/modal/]
+- Live Site URL: [https://ashleywaudbydev.github.io/modal/]
 
 ## My process
 
